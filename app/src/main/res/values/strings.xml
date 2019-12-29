@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KamenRider</string>
+    <string name="riders_name">Riders Name</string>
+    <string name="detail">Detail</string>
+    <string name="data_diterima">Data Diterima</string>
+    <string name="nama_kamen_rider">Nama Kamen Rider</string>
+    <string name="deskripsi_kamen_rider">Deskripsi Kamen Rider</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="email">Alamat Email</string>
+</resources>
